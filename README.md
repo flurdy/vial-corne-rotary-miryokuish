@@ -1,2 +1,78 @@
-# vial-corne-42-rotary
+# 📂 Vial Layout: `vial-corne-42-rotary`
+
 Vial layout for a Corne 42 key with rotary encoders
+
+## 🎹 Keyboard Model
+
+**Corne v4.1**
+* 42 keys, 4 blanked
+* 6 columns on the left half,  top outer corner key blanked
+* 5 columns on the right half, outer 1 column blanked
+* 2 rotary encoders, one on each half
+
+* Creator / Firmware / board design: https://github.com/foostan/crkbd
+---
+
+## 🔧 Firmware
+- **Vial-Compatible Firmware:** Yes  
+- **Vial JSON Export Version:** [Provide version if known]  
+- **QMK Base Firmware Version:** [Optional but helpful]
+
+---
+
+## 🗂️ Included Files
+- `[layout-name].json` – Vial keymap file (import this via Vial)
+> ✨ *Keymap file to come*
+
+---
+
+## 📑 Layout Overview
+
+| Layer | Purpose             |
+|-------|---------------------|
+| 0     | Default / Base Colemak |
+| 1     | Colemak game        |
+| 2     | Qwerty game         |
+| 3     | Number pad          |
+| 4     | Functions (F1–F12)  |
+| 5     | Symbol              |
+| 6     | Navigation          |
+| 7     | Media / System      |
+| 8     | Mouse               |
+| 9     | Code                |
+| 10    | Tiling              |
+| 11    | Norwegian           |
+| 12    | Code split          |
+| 13    | Tile resize         |
+
+> ✨ *Screenshots to come*
+
+---
+
+## ⌨️ Key Features
+- 🖱️ VIA-like drag-and-drop configurability
+- 🎨 
+- 🔁 
+- 🔒 
+
+---
+
+## 📥 How to Import
+1. Open **Vial** with the correct keyboard connected.
+2. Go to **Settings → Restore Settings** (or "Import Keymap").
+3. Select the provided `.json` file.
+4. Enjoy the layout!
+
+---
+
+## 💬 Notes
+- Layout designed for Linux, with UK English system layout.
+- You can modify any layer using Vial after importing.
+
+---
+
+## 📣 Contact
+If you have questions, feel free to reach out:  
+**@flurdy**
+**https://github/flurdy/vial-corne-42-rotary**
+**https://flurdy.com**
