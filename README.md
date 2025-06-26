@@ -1,11 +1,11 @@
-# 📂 Vial Layout: `vial-corne-42-rotary`
+# 📂 Vial Layout: `vial-corne-rotary-miryokuish`
 
 Vial layout for a Corne 42 key with rotary encoders
 
 ## 🎹 Keyboard Model
 
 **Corne v4.1**
-* 42 keys, 4 blanked
+* 44 keys, 40 in use, 4 blanked
 * 6 columns on the left half,  top outer corner key blanked
 * 5 columns on the right half, outer 1 column blanked
 * 2 rotary encoders, one on each half
@@ -21,12 +21,14 @@ Vial layout for a Corne 42 key with rotary encoders
 ---
 
 ## 🗂️ Included Files
-- `[layout-name].json` – Vial keymap file (import this via Vial)
+- `vial-corne-rotary-miryokuish.vil` – Vial keymap file (import this via Vial)
 > ✨ *Keymap file to come*
 
----
+--- 
 
 ## 📑 Layout Overview
+
+Loosely based on Miryoku layout: https://github.com/manna-harbour/miryoku
 
 | Layer | Purpose             |
 |-------|---------------------|
@@ -60,7 +62,7 @@ Vial layout for a Corne 42 key with rotary encoders
 ## 📥 How to Import
 1. Open **Vial** with the correct keyboard connected.
 2. Go to **Settings → Restore Settings** (or "Import Keymap").
-3. Select the provided `.json` file.
+3. Select the provided `.vil` file.
 4. Enjoy the layout!
 
 ---
@@ -73,6 +75,11 @@ Vial layout for a Corne 42 key with rotary encoders
 
 ## 📣 Contact
 If you have questions, feel free to reach out:  
-**@flurdy**
-**https://github/flurdy/vial-corne-42-rotary**
-**https://flurdy.com**
+
+* @flurdy 
+
+* https://github/flurdy/vial-corne-rotary-miryokuish
+
+* https://bsky.app/profile/flurdy.com
+
+* https://flurdy.com
