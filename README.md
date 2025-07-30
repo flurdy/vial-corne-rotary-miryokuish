@@ -1,6 +1,6 @@
 # 📂 Vial Layout: `vial-corne-rotary-miryokuish`
 
-Vial layout for a Corne 42 key with rotary encoders
+Vial layout for a Corne keyboard with rotary encoders
 
 ## 🎹 Keyboard Model
 
